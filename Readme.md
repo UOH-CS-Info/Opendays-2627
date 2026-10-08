@@ -15,7 +15,7 @@ This page provides useful open-day follow-up information[^1], for all other info
 
 [Games Programming](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-for-games-programming-bsc-meng-hons?option=standard-course&start=2027)
 
-[AI](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-artificial-intelligence-bsc-meng-hons?option=standard-course&start=2027)
+[AI](https://www.hull.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc-meng-hons?option=standard-course&start=2027)
 
 [Robotics and AI](https://www.hull.ac.uk/study/undergraduate/courses/robotics-and-artificial-intelligence-bsc-meng-hons?option=standard-course&start=2027)
 
