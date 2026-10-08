@@ -9,15 +9,15 @@ This page provides useful open-day follow-up information[^1], for all other info
 
 ## Degree overview (Website)
 
-[Computer Science](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-bsc-meng?option=standard-course&start=2027)
+[Computer Science](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-bsc-meng-hons?option=standard-course&start=2027)
 
-[Software Engineering](https://www.hull.ac.uk/study/undergraduate/courses/software-engineering-bsc-meng?option=standard-course&start=2027)
+[Software Engineering](https://www.hull.ac.uk/study/undergraduate/courses/software-engineering-bsc-meng-hons?option=standard-course&start=2027)
 
-[Games Programming](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-for-games-programming-bsc-meng?option=standard-course&start=2027)
+[Games Programming](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-for-games-programming-bsc-meng-hons?option=standard-course&start=2027)
 
-[AI](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-artificial-intelligence-bsc-meng?option=standard-course&start=2027)
+[AI](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-artificial-intelligence-bsc-meng-hons?option=standard-course&start=2027)
 
-[Robotics and AI](https://www.hull.ac.uk/study/undergraduate/courses/robotics-and-artificial-intelligence-bsc-meng?option=standard-course&start=2027)
+[Robotics and AI](https://www.hull.ac.uk/study/undergraduate/courses/robotics-and-artificial-intelligence-bsc-meng-hons?option=standard-course&start=2027)
 
 [Cybersecurity](https://www.hull.ac.uk/study/undergraduate/courses/computer-science-and-cyber-security-bsc-meng-hons?option=standard-course&start=2027)
 
